@@ -1,3 +1,15 @@
+# New antidupe placeholders NexEngine's retarded ass refuses to implement to main;
+
+**{createdFor** - Reflects the user's ign the key was created for
+**{createdAtTime** - Reflects the time it was created
+**{createdAtDate** - Reflects the date it was created
+**{keyID}** - Reflects the ID used to identify duped keys
+
+
+nexengine, you're a true retard.
+
+
+
 # About
 <div align="center">
   <img src="https://nightexpressdev.com/excellentcrates/header.png">
